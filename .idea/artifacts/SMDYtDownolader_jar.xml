@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SMDYtDownolader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SMDYtDownolader_jar</output-path>
+    <root id="archive" name="SMDYtDownolader.jar">
+      <element id="module-output" name="SMDYtDownolader" />
+    </root>
+  </artifact>
+</component>
